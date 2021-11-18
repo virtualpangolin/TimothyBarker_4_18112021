@@ -272,6 +272,21 @@ a:hover {
     margin-top: 80px;
 }
 
+.citation {
+    padding-right: 55px;
+    padding-left: 55px;
+}
+.citation__text {
+    font-size: 20px;
+    line-height: 1.3em;
+    font-style: italic;
+    margin-bottom: 0;
+}
+.citation__writter {
+    font-size: 14px;
+
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
