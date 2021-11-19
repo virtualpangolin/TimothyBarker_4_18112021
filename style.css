@@ -284,7 +284,6 @@ a:hover {
 }
 .citation__writter {
     font-size: 14px;
-
 }
 
 .row-no-gutters {
@@ -751,7 +750,11 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
+}
+
+.black {
+    color: #333333!important;
 }
 
 .portfolio-thumb {
@@ -795,12 +798,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .ltc-white {
