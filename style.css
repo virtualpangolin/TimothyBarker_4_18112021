@@ -232,19 +232,6 @@ a:hover {
 .voffset-lg {
     margin-top: 80px;
 }
-.citation {
-    padding-right: 55px;
-    padding-left: 55px;
-}
-.citation__text {
-    font-size: 20px;
-    line-height: 1.3em;
-    font-style: italic;
-    margin-bottom: 0;
-}
-.citation__writter {
-    font-size: 14px;
-}
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -916,4 +903,39 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.citation {
+    padding-right: 55px;
+    padding-left: 55px;
+}
+.citation__text {
+    font-size: 20px;
+    line-height: 1.3em;
+    font-style: italic;
+    margin-bottom: 0;
+}
+.citation__writter {
+    font-size: 14px;
+}
+.text-center{
+    text-align: center;
+    line-height: 1.7;
+}
+.col-sm-12 p{
+    font-size: 14px;
+}
+.col-sm-12 h1{
+    margin: 0;
+    padding: 0;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.color-text{
+    color: #333!important;
 }
