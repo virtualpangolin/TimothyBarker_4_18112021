@@ -932,3 +932,10 @@ h4 {
 .color-text{
     color: #333!important;
 }
+.contact {
+    display: flex;
+    justify-content: center;
+}
+.col-sm-6 p{
+    font-size: 15px;
+}
