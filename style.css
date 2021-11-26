@@ -939,3 +939,7 @@ h4 {
 .col-sm-6 p{
     font-size: 15px;
 }
+.img-responsive{
+    max-width: 320px;
+    max-height: 320px;
+}
